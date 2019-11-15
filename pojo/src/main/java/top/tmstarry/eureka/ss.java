@@ -8,4 +8,7 @@ package top.tmstarry.eureka;
  * version    V1.0
  */
 public class ss {
+    public static void main(String[] args) {
+
+    }
 }
